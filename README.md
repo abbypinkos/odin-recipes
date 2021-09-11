@@ -4,12 +4,15 @@ This is a solution to the [Project: Recipes assignment on the Odin Project](http
 
 ### The assignment
 
-- Build the Google.com homepage
+- Build a basic recipe website
+- The website will consist of a main index page which will have links to a few recipes
+- For practice, add some CSS to it and use the external method
 
-### Screenshot
+### Screenshots
 
-![Screenshot](images/screenshot.jpg)
+![Screenshot](images/screenshot-1.png)
+![Screenshot](images/screenshot-2.png)
 
-Sources:
+### Sources:
 
-Recipe - 
+- Photographs and recipes used in this assignment are by [Yukitchen](http://yukitchen.com/).
